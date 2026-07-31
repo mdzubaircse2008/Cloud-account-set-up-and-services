@@ -1,7 +1,7 @@
 # *Ex.1 Cloud Account Setup and Services Overview in Microsoft Azure*
 
-### NAME: Prasanna R
-### REG.NO: 212222040120
+### NAME: Mohammed Zubair R
+### REG.NO: 212225040252
 
 ## *Aim:*
 To create a cloud account in Microsoft Azure and to explore its services such as Compute, IoT, and Security.
